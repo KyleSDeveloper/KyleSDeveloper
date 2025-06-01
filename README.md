@@ -4,7 +4,8 @@ Aspiring ML & data science pro, slinging Python to wrangle *all the data*.
 
 🔨 **What I’ve built**:  
 - A 2D platformer game with Python’s Arcade library (jump, shoot, win!)  
-- A phishing detection ML model using XGBoost (95% accuracy at spotting shady links)  
+- A phishing detection ML model using XGBoost (95% accuracy at spotting shady links)
+- A healthcare analysis simulation model using XGBoost 
 
 🛠️ **Tools I love**: Python, Pandas, NumPy, PyTorch, scikit-learn, 
 
