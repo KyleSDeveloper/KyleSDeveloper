@@ -14,16 +14,16 @@ I build **small, reliable ML services**: FastAPI APIs with auth/rate-limits, met
 ## What I do
 - Design and ship **production-style ML microservices** (FastAPI + Uvicorn)
 - Add **API-key auth** & **token-bucket rate limiting**
-- Instrument **/metrics** (p50/p95 latency) and health/version endpoints
+- Instrument **/metrics** (p50/p95) plus **/health**/**/version**
 - Build reproducible **Docker images** and publish to **GHCR**
-- Wire up **CI smoke tests** (boot server, hit health, assert JSON)
+- Wire up **CI smoke tests** (boot server → hit health → assert JSON)
 
 ---
 
 ## Projects you can try in minutes
 
 ### 1) ML Serving App (FastAPI + scikit-learn)
-Repo → `serving_app` · Image → `ghcr.io/kylesdeveloper/serving_app:latest`
+Repo → **[serving_app](https://github.com/KyleSDeveloper/serving_app)** · Image → **ghcr.io/kylesdeveloper/serving_app:latest**
 
 ```bash
 # Run the container
@@ -59,22 +59,34 @@ curl -s "http://localhost:8010/metrics" | python -m json.tool
 ```
 What’s inside: API-key auth, per-key rate limits, stopword-aware BM25 boosting, /metrics with p50/p95, CI smoke tests, Dockerfile.
 
-### How I work
+## How I work
 - Ship early: health/version + one endpoint + metrics first, then iterate
 - Automate: CI smoke tests (boot server, hit /health, fetch /metrics)
 - Document: clear README with curl examples & troubleshooting
-- Own the pipeline: training script ➜ artifact ➜ serving API ➜ image ➜ registry
+- Own the pipeline: training script → artifact → serving API → image → registry
 
-### Tech I use
+## Tech I use
 Python, FastAPI, Uvicorn, Pydantic, scikit-learn, NumPy, Docker, GitHub Actions, rank-bm25
 
-### Work with me
+## Work with me
 - Open to: contract / part-time / short engagements
 - Areas: ML APIs, retrieval/RAG baselines, metrics & reliability, containerization, CI/CD
-- Contact: kyle.s.delivery@gmail.com · LinkedIn: https://www.linkedin.com/in/kyle-spengler-30b186355/
-  Want something similar for your team? I can clone one of these services to your domain and ship a runnable image with metrics and CI.
+- Contact: kyle.s.delivery@gmail.com · LinkedIn
 
-### Quick links
+Want something similar for your team? I can clone one of these services to your domain and ship a runnable image with metrics and CI.
+
+## Quick links
 - 🔧 Serving App: https://github.com/KyleSDeveloper/serving_app
 - 📚 RAG Service: https://github.com/KyleSDeveloper/rag_service
+
+```
+If you want, I can also add:
+- a short **Services & rates** section (three fixed-price packages),
+- a tiny **testimonials** strip (even one-liners help),
+- or a **“Book 15-min intro”** link to your calendar.
+::contentReference[oaicite:0]{index=0}
+```
+
+
+
 
