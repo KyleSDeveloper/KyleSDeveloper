@@ -1,5 +1,5 @@
 # Kyle Spengler — ML Engineer (Contract)
-I build **small, reliable ML services**: FastAPI APIs with auth/rate-limits, metrics, CI/CD, and Docker images you can run in one command.
+I ship production-ready ML APIs you can run in minutes: FastAPI, API-key auth, rate limits, p50/p95 metrics, CI, and a Docker image on GHCR.
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
 ![FastAPI](https://img.shields.io/badge/FastAPI-API%20First-teal)
@@ -14,9 +14,17 @@ I build **small, reliable ML services**: FastAPI APIs with auth/rate-limits, met
 ## What I do
 - Design and ship **production-style ML microservices** (FastAPI + Uvicorn)
 - Add **API-key auth** & **token-bucket rate limiting**
-- Instrument **/metrics** (p50/p95) plus **/health**/**/version**
+- Instrument `/metrics` (p50/p95) plus `/health` and `/version`
 - Build reproducible **Docker images** and publish to **GHCR**
 - Wire up **CI smoke tests** (boot server → hit health → assert JSON)
+## What I’m looking for
+- Contract ML Engineer (remote, US-friendly time zones)
+- 10–25 hrs/week or 1–3 week sprints
+- ML APIs (FastAPI), RAG baselines, Docker, CI/CD
+- I own: `/health`, `/version`, `/metrics`, auth/rate-limits, GHCR image, CI smoke tests
+- Start: immediately · Contact: kyle.s.delivery@gmail.com · [LinkedIn](https://www.linkedin.com/in/kyle-spengler-30b186355/)
+
+
 
 ---
 
@@ -72,9 +80,7 @@ Python, FastAPI, Uvicorn, Pydantic, scikit-learn, NumPy, Docker, GitHub Actions,
 ## Work with me
 - Open to: contract / part-time / short engagements
 - Areas: ML APIs, retrieval/RAG baselines, metrics & reliability, containerization, CI/CD
-- Contact: kyle.s.delivery@gmail.com · [LinkedIn](https://www.linkedin.com/in/kyle-spengler-30b186355/)
-
-
+- Contact: [kyle.s.delivery@gmail.com](mailto:kyle.s.delivery@gmail.com) · [LinkedIn](https://www.linkedin.com/in/kyle-spengler-30b186355/)
 
 Want something similar for your team? I can clone one of these services to your domain and ship a runnable image with metrics and CI.
 
@@ -82,13 +88,6 @@ Want something similar for your team? I can clone one of these services to your 
 - 🔧 Serving App: https://github.com/KyleSDeveloper/serving_app
 - 📚 RAG Service: https://github.com/KyleSDeveloper/rag_service
 
-```
-If you want, I can also add:
-- a short **Services & rates** section (three fixed-price packages),
-- a tiny **testimonials** strip (even one-liners help),
-- or a **“Book 15-min intro”** link to your calendar.
-::contentReference[oaicite:0]{index=0}
-```
 
 
 
