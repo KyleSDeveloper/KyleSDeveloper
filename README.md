@@ -72,7 +72,8 @@ Python, FastAPI, Uvicorn, Pydantic, scikit-learn, NumPy, Docker, GitHub Actions,
 ## Work with me
 - Open to: contract / part-time / short engagements
 - Areas: ML APIs, retrieval/RAG baselines, metrics & reliability, containerization, CI/CD
-- Contact: kyle.s.delivery@gmail.com · LinkedIn
+- Contact: kyle.s.delivery@gmail.com · [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/kyle-spengler-30b186355/)
+
 
 Want something similar for your team? I can clone one of these services to your domain and ship a runnable image with metrics and CI.
 
