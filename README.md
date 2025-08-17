@@ -41,7 +41,8 @@ curl -s -X POST http://localhost:8011/predict \
 What’s inside: Pydantic schemas, /predict & /predict_batch, /health & /version, CI that boots the API and hits /health.
 
 ### 2) Production RAG Service — Starter Kit
-Repo → rag_service (FastAPI + BM25 baseline + metrics)
+Repo → **[rag_service](https://github.com/KyleSDeveloper/rag_service)**
+
 ```bash
 # Quickstart (local)
 python -m venv .venv && source .venv/bin/activate
