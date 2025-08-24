@@ -6,8 +6,7 @@ I ship production-ready ML APIs you can run in minutes: FastAPI, API-key auth, r
 ![Docker](https://img.shields.io/badge/Docker-Prod%20Images-informational)
 ![CI](https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-181717)
 ![Availability](https://img.shields.io/badge/Availability-Contract%20%2F%20Freelance-brightgreen)
-![Followers](https://img.shields.io/github/followers/KyleSDeveloper?style=social)
-![Stars](https://img.shields.io/github/stars/KyleSDeveloper?style=social)
+
 
 ---
 
