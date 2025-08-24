@@ -16,7 +16,7 @@ I ship production-ready ML APIs you can run in minutes: FastAPI, API-key auth, r
 - Wire up **CI smoke tests** (boot server → hit health → assert JSON)
 ## What I’m looking for
 - Contract ML Engineer (remote, US-friendly time zones)
-- 10–25 hrs/week or 1–3 week sprints or full time
+- 10–25 hrs/week, 1–3 week sprints, or full time
 - ML APIs (FastAPI), RAG baselines, Docker, CI/CD
 - Start: immediately · Contact: kyle.s.delivery@gmail.com · [LinkedIn](https://www.linkedin.com/in/kyle-spengler-30b186355/)
 
