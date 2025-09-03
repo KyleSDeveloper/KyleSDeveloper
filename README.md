@@ -74,7 +74,7 @@ What’s inside: API-key auth, per-key rate limits, stopword-aware BM25 boosting
 Python, FastAPI, Uvicorn, Pydantic, scikit-learn, NumPy, Docker, GitHub Actions, rank-bm25
 
 ## Work with me
-- Open to: contract / part-time / short engagements
+- Open to: contract / part-time / short engagements or full time
 - Areas: ML APIs, retrieval/RAG baselines, metrics & reliability, containerization, CI/CD
 - Contact: [kyle.s.delivery@gmail.com](mailto:kyle.s.delivery@gmail.com) · [LinkedIn](https://www.linkedin.com/in/kyle-spengler-30b186355/)
 
